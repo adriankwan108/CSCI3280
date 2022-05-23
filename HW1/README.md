@@ -25,3 +25,6 @@ The command prompt should allow single or more parameters.
 that means it could allow only the path name, or path name with size of content image,
 i.e. C:\> halftone MARBLES.bmp,  C:\> halftone MARBLES.bmp 256
 </pre>
+
+![plot](https://github.com/adriankwan108/CSCI3280/blob/main/HW1/asg1_before_demo.jpg)
+![plot](https://github.com/adriankwan108/CSCI3280/blob/main/HW1/asg1_result_demo.jpg)
